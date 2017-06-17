@@ -1,0 +1,249 @@
+2589581|Algeria
+3351879|Angola
+2395170|Benin
+933860|Botswana
+2361809|Burkina Faso
+433561|Burundi
+2233387|Cameroon
+3374766|Cape Verde
+239880|Central African Republic
+2434508|Chad
+921929|Comoros
+203312|Congo
+223816|Djibouti
+357994|Egypt
+2309096|Equatorial Guinea
+338010|Eritrea
+337996|Ethiopia
+2400553|Gabon
+2413451|Gambia
+2300660|Ghana
+2420477|Guinea
+2372248|Guinea-Bissau
+2287781|Ivory Coast
+192950|Kenya
+932692|Lesotho
+2275384|Liberia
+2215636|Libya
+1062947|Madagascar
+927384|Malawi
+2453866|Mali
+2378080|Mauritania
+934292|Mauritius
+1024031|Mayotte
+2542007|Morocco
+1036973|Mozambique
+3355338|Namibia
+2440476|Niger
+2328926|Nigeria
+2260494|Republic of the Congo
+49518|Rwanda
+935317|Réunion
+3370751|Saint Helena
+2245662|Senegal
+241170|Seychelles
+2403846|Sierra Leone
+51537|Somalia
+953987|South Africa
+7909807|South Sudan
+366755|Sudan
+934841|Swaziland
+2410758|São Tomé and Príncipe
+149590|Tanzania
+2363686|Togo
+2464461|Tunisia
+226074|Uganda
+2461445|Western Sahara
+895949|Zambia
+878675|Zimbabwe
+6697173|Antarctica
+3371123|Bouvet Island
+1546748|French Southern Territories
+1547314|Heard Island and McDonald Islands
+3474415|South Georgia and the South Sandwich Islands
+1149361|Afghanistan
+174982|Armenia
+587116|Azerbaijan
+290291|Bahrain
+1210997|Bangladesh
+1252634|Bhutan
+1282588|British Indian Ocean Territory
+1820814|Brunei
+1831722|Cambodia
+1814991|China
+2078138|Christmas Island
+1547376|Cocos [Keeling] Islands
+614540|Georgia
+1819730|Hong Kong
+1269750|India
+1643084|Indonesia
+130758|Iran
+99237|Iraq
+294640|Israel
+1861060|Japan
+248816|Jordan
+1522867|Kazakhstan
+285570|Kuwait
+1527747|Kyrgyzstan
+1655842|Laos
+272103|Lebanon
+1821275|Macao
+1733045|Malaysia
+1282028|Maldives
+2029969|Mongolia
+1327865|Myanmar [Burma]
+1282988|Nepal
+1873107|North Korea
+286963|Oman
+1168579|Pakistan
+6254930|Palestine
+1694008|Philippines
+289688|Qatar
+102358|Saudi Arabia
+1880251|Singapore
+1835841|South Korea
+1227603|Sri Lanka
+163843|Syria
+1668284|Taiwan
+1220409|Tajikistan
+1605651|Thailand
+298795|Turkey
+1218197|Turkmenistan
+290557|United Arab Emirates
+1512440|Uzbekistan
+1562822|Vietnam
+69543|Yemen
+783754|Albania
+3041565|Andorra
+2782113|Austria
+630336|Belarus
+2802361|Belgium
+3277605|Bosnia and Herzegovina
+732800|Bulgaria
+3202326|Croatia
+146669|Cyprus
+3077311|Czech Republic
+2623032|Denmark
+453733|Estonia
+2622320|Faroe Islands
+660013|Finland
+3017382|France
+2921044|Germany
+2411586|Gibraltar
+390903|Greece
+719819|Hungary
+2629691|Iceland
+2963597|Ireland
+3175395|Italy
+831053|Kosovo
+458258|Latvia
+3042058|Liechtenstein
+597427|Lithuania
+2960313|Luxembourg
+718075|Macedonia
+2562770|Malta
+617790|Moldova
+2993457|Monaco
+3194884|Montenegro
+2750405|Netherlands
+3144096|Norway
+798544|Poland
+2264397|Portugal
+798549|Romania
+2017370|Russia
+3168068|San Marino
+6290252|Serbia
+3057568|Slovakia
+3190538|Slovenia
+2510769|Spain
+607072|Svalbard and Jan Mayen
+2661886|Sweden
+2658434|Switzerland
+690791|Ukraine
+2635167|United Kingdom
+3164670|Vatican City
+661882|Åland
+3573511|Anguilla
+3576396|Antigua and Barbuda
+3577279|Aruba
+3572887|Bahamas
+3374084|Barbados
+3582678|Belize
+3573345|Bermuda
+7626844|Bonaire
+3577718|British Virgin Islands
+6251999|Canada
+3580718|Cayman Islands
+3624060|Costa Rica
+3562981|Cuba
+7626836|Curacao
+3575830|Dominica
+3508796|Dominican Republic
+3585968|El Salvador
+3425505|Greenland
+3580239|Grenada
+3579143|Guadeloupe
+3595528|Guatemala
+3723988|Haiti
+3608932|Honduras
+3489940|Jamaica
+3570311|Martinique
+3996063|Mexico
+3578097|Montserrat
+3617476|Nicaragua
+3703430|Panama
+4566966|Puerto Rico
+3578476|Saint Barthélemy
+3575174|Saint Kitts and Nevis
+3576468|Saint Lucia
+3578421|Saint Martin
+3424932|Saint Pierre and Miquelon
+3577815|Saint Vincent and the Grenadines
+7609695|Sint Maarten
+3573591|Trinidad and Tobago
+3576916|Turks and Caicos Islands
+4796775|U.S. Virgin Islands
+6252001|United States
+5880801|American Samoa
+2077456|Australia
+1899402|Cook Islands
+2170371|Coral Sea Islands Territory
+1966436|East Timor
+2205218|Fiji
+4030656|French Polynesia
+4043988|Guam
+4030945|Kiribati
+2080185|Marshall Islands
+2081918|Micronesia
+2110425|Nauru
+2139685|New Caledonia
+2186224|New Zealand
+4036232|Niue
+2155115|Norfolk Island
+4041468|Northern Mariana Islands
+1559582|Palau
+2088628|Papua New Guinea
+4030699|Pitcairn Islands
+4034894|Samoa
+2103350|Solomon Islands
+2077507|Territory of Ashmore and Cartier Islands
+4031074|Tokelau
+4032283|Tonga
+2110297|Tuvalu
+5854968|U.S. Minor Outlying Islands
+2134431|Vanuatu
+4034749|Wallis and Futuna
+3865483|Argentina
+3923057|Bolivia
+3469034|Brazil
+3895114|Chile
+3686110|Colombia
+3658394|Ecuador
+3474414|Falkland Islands
+3381670|French Guiana
+3378535|Guyana
+3437598|Paraguay
+3932488|Peru
+3382998|Suriname
+3439705|Uruguay
+3625428|Venezuela
